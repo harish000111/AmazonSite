@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-		<span style="font-size:64px;margin-right:10px;color:orange">Devops Harish - v2</span>i
+		<span style="font-size:64px;margin-right:10px;color:green">Devops Harish - v2</span>i
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
